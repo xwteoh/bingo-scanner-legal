@@ -1,7 +1,7 @@
   # Bingo Scanner Privacy Policy
   Last updated: 8 November 2025
 
-  Bingo Scanner (“the App”) is operated by Xin Wei Teoh (“we”,
+  Bingo Scanner (“the App”) is operated by XWT (“we”,
   “us”). This policy explains what information we collect, how we
   use it, and the choices available to you.
 
@@ -103,5 +103,5 @@
   Questions or requests regarding privacy may be sent to:
   - **Email:** privacy@bingoscanner.app (replace with your actual
   inbox)
-  - **Mailing Address:** Xin Wei Teoh, 123 Example Street,
-  Singapore 012345 (replace with your address)
+  - **Mailing Address:** XWT, 123 Example Street,
+  012345
