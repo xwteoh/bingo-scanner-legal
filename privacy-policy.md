@@ -98,9 +98,16 @@
   requirements. “Last updated” will indicate the latest revision.
   Significant changes will be announced in-app or by email when
   available.
-
+  
   ## 10. Contact Us
   Questions or requests regarding privacy may be sent to:
   - **Email:** privacy@bingoscanner.app (replace with your actual
   inbox)
   - **Mailing Address:** XWT, 123 Example Street
+
+  ## Manage or Revoke Ad Consent {#manage-consent}
+  To change your ad preferences:
+  1. Open Bingo Scanner.
+  2. Go to Settings → Support → *Manage Ad Consent*.
+  3. Follow the Google consent dialog to update or withdraw
+  permission.
