@@ -106,6 +106,7 @@
   - **Mailing Address:** XWT, 123 Example Street
 
   ## Manage or Revoke Ad Consent {#manage-consent}
+  
   To change your ad preferences:
   1. Open Bingo Scanner.
   2. Go to Settings → Support → *Manage Ad Consent*.
