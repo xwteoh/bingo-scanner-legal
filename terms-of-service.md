@@ -109,13 +109,21 @@ Your use of these third-party services is subject to their respective terms of s
 
 ## 8. Advertising (Free Tier Only)
 
-The Free Tier is supported by advertisements served through Google AdMob. By using the Free Tier, you acknowledge and agree to:
+The Free Tier is supported by advertisements served through Google AdMob. By using the Free Tier, you acknowledge and agree to view advertisements displayed within the App.
 
-- View advertisements displayed within the App
-- Provide consent for personalized ads where required by law (GDPR/CCPA)
-- Allow collection of advertising identifiers for ad delivery
+### 8.1 Ad Consent (GDPR/CCPA Regions)
 
-You can manage ad consent preferences in the Settings screen ("Manage Ad Consent"). Premium subscribers enjoy an ad-free experience.
+In certain regions (EU, California, etc.), you will be asked to provide consent for personalized ads:
+
+- **If you consent:** You will see personalized ads based on your interests
+- **If you decline:** You will see non-personalized (generic) ads instead
+- **You can still use the app regardless of your choice**
+
+You can change your ad consent preferences at any time in the Settings screen ("Manage Ad Consent").
+
+### 8.2 Premium Upgrade
+
+Premium subscribers ("Bingo Plus") enjoy a completely ad-free experience with no advertisements or tracking.
 
 ## 9. Disclaimers and Warranties
 
