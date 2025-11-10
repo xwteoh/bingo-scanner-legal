@@ -200,9 +200,9 @@ These Terms shall be governed by and construed in accordance with the laws of **
 
 Any disputes arising from these Terms or your use of the App shall be resolved through:
 
-1. **Informal Negotiation:** Contact us at [support@bingoscanner.app](mailto:support@bingoscanner.app) to resolve the issue informally
-2. **Binding Arbitration:** If informal resolution fails, disputes shall be resolved through binding arbitration in accordance with the rules of [Arbitration Organization]
-3. **Class Action Waiver:** You agree to resolve disputes on an individual basis and waive any right to participate in class actions
+1. **Informal Negotiation:** Contact us via the "Contact Support" button in the app's Settings screen to resolve the issue informally. We will make good-faith efforts to resolve disputes within 30 days.
+2. **Binding Arbitration:** If informal resolution fails, disputes shall be resolved through binding arbitration in accordance with local arbitration rules in your jurisdiction.
+3. **Class Action Waiver:** You agree to resolve disputes on an individual basis and waive any right to participate in class actions.
 
 ### 14.3 Exceptions
 
@@ -232,10 +232,9 @@ We shall not be liable for any failure to perform our obligations due to circums
 
 ## 16. Contact Information
 
-If you have any questions about these Terms, please contact us:
+If you have any questions about these Terms or need support, please contact us:
 
-**Email:** [support@bingoscanner.app](mailto:support@bingoscanner.app)
-**Website:** [https://xwteoh.github.io/bingo-scanner-legal/](https://xwteoh.github.io/bingo-scanner-legal/)
+**Support:** Use the "Contact Support" button in the app's Settings screen, or visit [https://xwteoh.github.io/bingo-scanner-legal/](https://xwteoh.github.io/bingo-scanner-legal/)
 
 **Related Documents:**
 - [Privacy Policy](https://xwteoh.github.io/bingo-scanner-legal/privacy-policy)
