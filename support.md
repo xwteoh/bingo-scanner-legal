@@ -6,7 +6,7 @@ If you need help with Bingo Scanner, please use one of the options below:
 
 1. **Feedback & Bug Reports (preferred)**  
    Fill out our Tally form so we can capture your device info and reply via email:  
-   [https://tally.so/r/bingo-scanner-support](https://tally.so/r/44XErk)
+   [Feedback Form](https://tally.so/r/44XErk)
 
 2. **Email**  
    Reach us at [project_b@outlook.sg](mailto:project_b@outlook.sg). Please include:
