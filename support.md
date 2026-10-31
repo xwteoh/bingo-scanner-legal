@@ -1,22 +1,23 @@
 # Bingo Scanner – Support
 
-**Last Updated:** 22 Feb 2025
+**Last Updated:** 1 Nov 2026
 
 If you need help with Bingo Scanner, please use one of the options below:
 
-1. **Feedback & Bug Reports (preferred)**  
-   Fill out our Tally form so we can capture your device info and reply via email:  
-   [Feedback Form](https://tally.so/r/44XErk)
+1. **Feedback & Bug Reports**  
+   Tap **Settings → Contact Support** in the app, or fill out our form:  
+   [https://tally.so/r/44XErk](https://tally.so/r/44XErk)
 
-2. **Email**  
-   Reach us at [project_b@outlook.sg](mailto:project_b@outlook.sg). Please include:
-   - Your device model and iOS version  
-   - Bingo Scanner app version (Settings → About)  
-   - Steps to reproduce the issue  
+   Please include:
+   - Your device model and iOS or Android version
+   - Bingo Scanner app version
+   - Steps to reproduce the issue
    - Screenshots if possible
 
-3. **Privacy & Purchases**  
-   - [Privacy Policy](./privacy-policy)  
+2. **Privacy & Purchases**
+   - [Privacy Policy](./privacy-policy)
    - [Terms of Service](./terms-of-service)
 
-We aim to respond within 2 business days. For urgent billing issues, kindly mention “Billing” in the subject so we can prioritize your request.
+You can also email [project.bingo.scanner@gmail.com](mailto:project.bingo.scanner@gmail.com).
+
+We aim to respond within 2 business days. For urgent billing issues, kindly mention “Billing” in your message so we can prioritize your request.

@@ -1,107 +1,98 @@
-  # Bingo Scanner Privacy Policy
-  Last updated: 8 November 2025
+# Bingo Scanner Privacy Policy
 
-  Bingo Scanner (“the App”) is operated by XWT (“we”,
-  “us”). This policy explains what information we collect, how we
-  use it, and the choices available to you.
+**Last updated:** November 1, 2026
 
-  ## 1. Information We Collect
-  ### 1.1 Camera & Images
-  - Live camera feed and captured card photos are processed on-
-  device solely to scan bingo cards.
-  - Images are not transmitted to our servers or to ad/analytics
-  partners unless you explicitly choose to share them.
+Bingo Scanner ("the App") is operated by Xin Wei Teoh ("we", "us"). This policy explains what information the App uses, who receives it, and the choices you have.
 
-  ### 1.2 Device & Usage Data
-  - Device model, OS version, language, time zone, and app
-  version.
-  - In-app events (screen views, button taps, error logs) needed
-  to keep the app reliable.
+**In short:** the App has no accounts, and your cards and games stay on your phone. Information reaches other companies only as listed in section 3. The main examples are card photos that Google reads when on-device scanning can't, and data Google collects for ads.
 
-  ### 1.3 Advertising & Analytics Identifiers
-  - Google Advertising ID / IDFA and similar identifiers.
-  - IP-derived coarse location (city/region) for regional
-  compliance and ad targeting.
+## 1. Card Photos
 
-  ### 1.4 Purchases & Entitlements
-  - Receipts or transaction IDs for premium upgrades (stored
-  locally and in Apple/Google systems).
-  - We do not collect or store payment card numbers.
+- **Usually on your phone:** the App first reads your card using Google ML Kit on your device.
+- **Sometimes sent to Google:** if on-device scanning fails or isn't available, the App sends the card photo over the internet to the Google Cloud Vision service to read the numbers. The current version doesn't ask you first. Google states that images in these requests are processed in memory, aren't saved to disk and aren't used to train its models, and that it temporarily logs some request metadata.
+- **Not sent to us:** we don't run servers for the App and don't receive your photos.
+- **On your phone:** a scanned photo may stay in the App's storage on your device until the App is removed. Apart from the Google Cloud Vision step above, it isn't shared unless you choose to share something yourself.
 
-  ### 1.5 Crash & Performance Data
-  - Anonymous crash traces and performance metrics via Sentry/
-  Expo.
+## 2. Information Stored on Your Phone
 
-  ## 2. How We Use Information
-  - Provide core features such as bingo-card scanning, number
-  tracking, and win detection.
-  - Maintain premium entitlements and restore purchases.
-  - Analyze aggregate usage to improve usability and performance.
-  - Show ads to free-tier users through Google AdMob and respect
-  frequency caps.
-  - Detect and prevent fraud, abuse, or violations of our terms.
+The App keeps these on your device. We can't see them:
 
-  ## 3. Sharing & Third Parties
-  We do not sell personal information. We share limited data
-  with:
-  - **Google AdMob & Google User Messaging Platform (UMP):**
-  serves ads, records consent choices, and enforces personalized/
-  non-personalized settings.
-  - **Google Analytics for Firebase / Expo analytics:** app usage
-  stats and diagnostics.
-  - **Expo / EAS Services:** builds and OTA updates.
-  - **Apple & Google in-app purchases:** transaction validation.
-  Each provider processes data under its own privacy policy
-  and is contractually bound to use it only to provide their
-  services.
+- Your cards, called numbers, saved game and saved card library
+- Your settings and preferences, including ad consent status
+- Your Bingo Plus status and purchase reference
+- Usage counters, such as the number of game sessions and when an ad was last shown
+- A short log of app errors
 
-  ## 4. Data Storage & Retention
-  - Camera data stays local and is discarded after bingo numbers
-  are extracted.
-  - Usage analytics are stored for up to 24 months for trend
-  analysis.
-  - Purchase history is retained as required by Apple/Google and
-  applicable tax laws.
-  - Crash logs are retained for 90 days unless legal obligations
-  require longer.
+Win notifications are created on your phone and aren't sent through a server. Removing the App deletes most of this. On iPhone, your Bingo Plus status may stay in the phone's secure storage after removal. Your phone's own backups may include App data.
 
-  ## 5. Children’s Privacy
-  Bingo Scanner is designed for general audiences but may be used
-  by seniors with caregivers. We do not knowingly collect data
-  from children under 13 (or under the minimum age required in
-  your region). If you believe we’ve collected data from a child,
-  contact us to remove it.
+## 3. Services That Receive Information
 
-  ## 6. Your Choices
-  - **Ads & Consent:** Use the in-app consent dialog (EU/EEA & CA
-  residents) to choose personalized or non-personalized ads, or
-  withdraw consent.
-  - **Device Permissions:** You can revoke camera access in OS
-  settings, though core scanning features will stop working.
-  - **Limit Ad Tracking:** Use system settings (iOS “Allow
-  Apps to Request to Track”, Android “Reset advertising ID”) to
-  restrict identifiers.
+| Service                               | What it's for                   | What it may receive                                                                                                                            |
+| ------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Google AdMob and consent tools**    | Ads for free users, ad consent  | IP address, which can suggest your general location; advertising and device identifiers; ad and app interactions; diagnostics; consent choices |
+| **Google ML Kit**                     | On-device card scanning         | Device and app details, an installation identifier, performance data and error codes, for diagnostics and usage analytics                      |
+| **Google Cloud Vision**               | Backup card scanning            | Your card photo, as described in section 1. The App also makes simple internet connection checks to Google                                     |
+| **Apple and Google in-app purchases** | Buying and restoring Bingo Plus | Your purchase. Apple and Google handle payment, and we don't receive your card details. They give us sales reports                             |
+| **Expo**                              | App update services             | When the App checks for updates: platform, app and update versions, an installation identifier and IP address                                  |
+| **Tally**                             | Support form                    | Opening the form sends your app version, device system, free or Plus status, game session count and IP address. Submitting adds what you type  |
+| **Google (Gmail)**                    | Support email                   | If you email us: your email address and message                                                                                                |
 
-  ## 7. Security
-  We employ industry-standard safeguards (encryption in transit,
-  secure key storage, least-privilege access) to protect your
-  information. No system is 100% secure; please report any
-  suspected vulnerabilities.
+Ad components may also start for Bingo Plus owners when the App opens, though they aren't shown ads.
 
-  ## 8. International Transfers
-  Data may be processed on servers located in the United States
-  or other countries. We rely on standard contractual clauses and
-  similar safeguards where applicable.
+The current version of the App doesn't use a separate analytics or crash-reporting service. If that changes, we'll update this policy first.
 
-  ## 9. Updates to This Policy
-  We may update this policy to reflect app changes or legal
-  requirements. “Last updated” will indicate the latest revision.
-  Significant changes will be announced in-app or by email when
-  available.
+We don't sell your personal information. Each service handles data under its own privacy policy:
 
-  ## 10. Contact Us
-  Questions or requests regarding privacy may be sent to:
-  - **Email:** privacy@bingoscanner.app (replace with your actual
-  inbox)
-  - **Mailing Address:** XWT, 123 Example Street,
-  012345
+- [Google](https://policies.google.com/privacy)
+- [Apple](https://www.apple.com/legal/privacy/)
+- [Expo](https://expo.dev/privacy)
+- [Tally](https://tally.so/help/privacy-policy)
+
+## 4. How Information Is Used
+
+We use this information to scan cards, run your game, provide and restore Bingo Plus, show ads to free users, answer your support requests, and fix problems.
+
+## 5. How Long Information Is Kept
+
+- **On your phone:** until you delete it or remove the App. Saved games are cleared when you start a new game or when you open the App and the save is over 24 hours old. Your phone may keep scan photos until the App is removed.
+- **Support messages:** only as long as needed to help you, unless a law requires longer. You can ask us to delete them.
+- **Other services:** according to their own policies.
+
+## 6. Your Choices
+
+- **Ad consent:** where it applies, choose or change your ad preferences in **Settings → Manage Ad Consent**.
+- **Ad tracking:** use your phone's settings. On iPhone, you can refuse tracking when asked. On Android, you can reset or delete your advertising ID.
+- **Camera:** you can turn off camera access in your phone's settings, and enter cards by hand instead.
+- **Your data:** contact us with any question or request about your information. Because the App has no accounts, most of your data is on your phone, where you control it.
+
+## 7. Children
+
+The App isn't intended for children under 13, and we don't knowingly collect their information. If you believe a child has sent us information, contact us and we'll delete it.
+
+## 8. Security
+
+Information sent to these services travels over encrypted connections, and the App uses your phone's secure storage for Bingo Plus status where available. No system is completely secure.
+
+## 9. International Transfers
+
+Google, Apple, Expo and Tally may process information in other countries, including the United States.
+
+## 10. Changes to This Policy
+
+If we change this policy, we'll update the date at the top. We'll highlight significant changes in the App where we can.
+
+## 11. Contact Us
+
+- **Email:** [project.bingo.scanner@gmail.com](mailto:project.bingo.scanner@gmail.com)
+- **In the App:** Settings → Contact Support
+- **Support form:** [https://tally.so/r/44XErk](https://tally.so/r/44XErk)
+
+## Manage or Revoke Ad Consent {#manage-consent}
+
+To change your ad preferences:
+
+1. Open Bingo Scanner.
+2. Go to **Settings → Manage Ad Consent**.
+3. Follow the consent dialog to update or withdraw permission.
+
+The option only has an effect where a consent form applies to your region.

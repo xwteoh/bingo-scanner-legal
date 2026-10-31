@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** January 10, 2025
+**Last Updated:** November 1, 2026
 
 > **Important:** Please read these Terms of Service carefully before using the Bingo Scanner mobile application. By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
@@ -8,7 +8,7 @@
 
 ## 1. Acceptance of Terms
 
-These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Bingo Scanner ("we," "us," or "our") regarding your use of the Bingo Scanner mobile application (the "App").
+These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "you," or "your") and Xin Wei Teoh, the operator of Bingo Scanner ("we," "us," or "our"), regarding your use of the Bingo Scanner mobile application (the "App").
 
 By accessing or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and our [Privacy Policy](https://xwteoh.github.io/bingo-scanner-legal/privacy-policy).
 
@@ -18,7 +18,7 @@ Bingo Scanner is a mobile application designed to help users:
 
 - Scan physical bingo cards using optical character recognition (OCR)
 - Track called numbers across multiple cards simultaneously
-- Detect winning patterns automatically (line, corners, full card)
+- Detect winning patterns automatically
 - Manage game sessions and card libraries
 
 The App is available in two tiers:
@@ -52,34 +52,33 @@ The App is not intended for children under 13 years of age. By using the App, yo
 
 ### 4.2 Camera Permissions
 
-The App requires camera access to scan bingo cards. You grant the App permission to access your device camera solely for this purpose. All image processing is performed on-device; images are not uploaded to our servers without your explicit consent.
+The App asks for camera access to scan bingo cards, and you can enter cards by hand instead. If you allow it, the App uses your device camera solely for this purpose. The App first reads your card on your device. If that fails or isn't available, your card photo may be sent to Google Cloud Vision to read the numbers. We don't run servers for the App and don't receive your photos. See our [Privacy Policy](https://xwteoh.github.io/bingo-scanner-legal/privacy-policy) for details.
 
 ### 4.3 Responsible Use
 
-You agree to use the App responsibly and in accordance with the rules of any bingo game you are playing. We are not responsible for any disputes arising from gameplay or winnings.
+You agree to use the App responsibly and in accordance with the rules of any bingo game you are playing, including any venue rules on using phones or apps. We are not responsible for any disputes arising from gameplay or winnings. The App doesn't replace a venue's official process, and the venue's decision on a win is final.
 
-## 5. Premium Subscription Terms
+## 5. Bingo Plus Purchase Terms
 
-### 5.1 Subscription Purchase
+### 5.1 One-Time Purchase
 
-Premium subscriptions ("Bingo Plus") are processed through Apple App Store or Google Play Store in-app purchases (IAP). By purchasing a Premium subscription, you agree to pay the applicable fees displayed at the time of purchase.
+"Bingo Plus" is a one-time, lifetime in-app purchase made through the Apple App Store or Google Play Store. It isn't a subscription and doesn't renew. By purchasing it, you agree to pay the price displayed at the time of purchase.
 
-### 5.2 Billing and Renewal
+### 5.2 Lifetime Access
 
-- **Annual Subscription:** Premium subscriptions are billed annually through your Apple ID or Google Play account
-- **Auto-Renewal:** Subscriptions automatically renew unless you cancel at least 24 hours before the end of the current period
-- **Price Changes:** We reserve the right to change subscription prices with 30 days' notice
+"Lifetime" means for as long as we offer and support the App on your platform. It covers the Bingo Plus features of the App and isn't tied to a billing period.
 
-### 5.3 Cancellation and Refunds
+### 5.3 Price Changes
 
-- You can cancel your subscription anytime through your App Store or Google Play account settings
-- Cancellation takes effect at the end of the current billing period
-- Refunds are subject to Apple App Store and Google Play Store refund policies
-- We do not provide refunds directly; all refund requests must go through Apple or Google
+Prices may change or vary by region. A price change doesn't affect a purchase you've already made.
 
-### 5.4 Restore Purchases
+### 5.4 Refunds
 
-Premium subscriptions can be restored on new devices using the "Restore Purchases" button in Settings. You must use the same Apple ID or Google account used for the original purchase.
+Refunds are subject to Apple App Store and Google Play Store refund policies. We do not provide refunds directly; refund requests must go through Apple or Google.
+
+### 5.5 Restore Purchases
+
+Bingo Plus can be restored on new devices using the "Restore Purchases" button in Settings. You must use the same Apple ID or Google account used for the original purchase.
 
 ## 6. Intellectual Property Rights
 
@@ -89,7 +88,7 @@ The App, including its code, design, graphics, user interface, and all related i
 
 ### 6.2 User Content
 
-You retain ownership of any bingo card images you scan or create using the App. By using the App, you grant us a limited license to process these images solely for providing OCR functionality. We do not store or transmit your card images to our servers.
+You retain ownership of any bingo card images you scan or create using the App. By using the App, you grant us a limited license to process these images, including through the services described in Section 7, solely for providing OCR functionality. We do not run servers for the App and do not receive your card images.
 
 ### 6.3 Trademarks
 
@@ -100,10 +99,11 @@ You retain ownership of any bingo card images you scan or create using the App. 
 The App integrates with third-party services, including:
 
 - **Google ML Kit:** For on-device OCR text recognition
-- **Google Cloud Vision API:** For fallback OCR processing
+- **Google Cloud Vision API:** For fallback OCR processing when on-device scanning fails or isn't available
 - **Google AdMob:** For advertising in the Free Tier
-- **Firebase Analytics:** For app usage analytics
 - **Apple App Store / Google Play Store:** For in-app purchases
+- **Expo:** For app update services
+- **Tally:** For the support form
 
 Your use of these third-party services is subject to their respective terms of service and privacy policies. We are not responsible for any third-party services' actions or omissions.
 
@@ -111,19 +111,15 @@ Your use of these third-party services is subject to their respective terms of s
 
 The Free Tier is supported by advertisements served through Google AdMob. By using the Free Tier, you acknowledge and agree to view advertisements displayed within the App.
 
-### 8.1 Ad Consent (GDPR/CCPA Regions)
+### 8.1 Ad Consent
 
-In certain regions (EU, California, etc.), you will be asked to provide consent for personalized ads:
-
-- **If you consent:** You will see personalized ads based on your interests
-- **If you decline:** You will see non-personalized (generic) ads instead
-- **You can still use the app regardless of your choice**
+Where Google's consent form applies, your choice controls how Google may use your data for ads. You can still use the App regardless of your choice.
 
 You can change your ad consent preferences at any time in the Settings screen ("Manage Ad Consent").
 
 ### 8.2 Premium Upgrade
 
-Premium subscribers ("Bingo Plus") enjoy a completely ad-free experience with no advertisements or tracking.
+Bingo Plus owners enjoy an ad-free experience.
 
 ## 9. Disclaimers and Warranties
 
@@ -159,7 +155,7 @@ Some jurisdictions do not allow the exclusion of certain warranties or limitatio
 
 ## 11. Indemnification
 
-You agree to indemnify, defend, and hold harmless Bingo Scanner, its affiliates, officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+You agree to indemnify, defend, and hold harmless Xin Wei Teoh from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
 
 - Your use or misuse of the App
 - Your violation of these Terms
@@ -170,7 +166,7 @@ You agree to indemnify, defend, and hold harmless Bingo Scanner, its affiliates,
 
 ### 12.1 Termination by You
 
-You may stop using the App at any time by uninstalling it from your device. To cancel a Premium subscription, follow the instructions in Section 5.3.
+You may stop using the App at any time by uninstalling it from your device.
 
 ### 12.2 Termination by Us
 
@@ -182,11 +178,7 @@ Upon termination, your license to use the App will immediately cease. Provisions
 
 ## 13. Changes to Terms
 
-We reserve the right to modify these Terms at any time. If we make material changes, we will notify you by:
-
-- Posting the updated Terms in the App
-- Updating the "Last Updated" date at the top of this document
-- Displaying an in-app notification (for significant changes)
+We reserve the right to modify these Terms at any time. If we make material changes, we will update this page and its "Last Updated" date and, where we can, show a notice in the App.
 
 Your continued use of the App after changes are posted constitutes your acceptance of the modified Terms. If you do not agree to the changes, you must stop using the App.
 
@@ -194,7 +186,7 @@ Your continued use of the App after changes are posted constitutes your acceptan
 
 ### 14.1 Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of **[Your Country/State]**, without regard to its conflict of law provisions.
+These Terms shall be governed by and construed in accordance with the laws of Singapore, without regard to its conflict of law provisions.
 
 ### 14.2 Dispute Resolution
 
@@ -224,7 +216,7 @@ Our failure to enforce any right or provision of these Terms shall not constitut
 
 ### 15.4 Assignment
 
-You may not assign or transfer these Terms without our prior written consent. We may assign these Terms to any affiliate or successor without restriction.
+You may not assign or transfer these Terms without our prior written consent. We may assign these Terms to any successor without restriction.
 
 ### 15.5 Force Majeure
 
@@ -234,11 +226,14 @@ We shall not be liable for any failure to perform our obligations due to circums
 
 If you have any questions about these Terms or need support, please contact us:
 
-**Support:** Use the "Contact Support" button in the app's Settings screen, or visit [https://xwteoh.github.io/bingo-scanner-legal/](https://xwteoh.github.io/bingo-scanner-legal/)
+**Email:** [project.bingo.scanner@gmail.com](mailto:project.bingo.scanner@gmail.com)
+
+**Support:** Use the "Contact Support" button in the app's Settings screen, or our [support form](https://tally.so/r/44XErk)
 
 **Related Documents:**
+
 - [Privacy Policy](https://xwteoh.github.io/bingo-scanner-legal/privacy-policy)
 
 ---
 
-© 2025 Bingo Scanner. All rights reserved.
+© 2026 Xin Wei Teoh. All rights reserved.
