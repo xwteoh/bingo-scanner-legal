@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** November 1, 2026
+**Last Updated:** November 2, 2026
 
 > **Important:** Please read these Terms of Service carefully before using the Bingo Scanner mobile application. By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
@@ -52,7 +52,7 @@ The App is not intended for children under 13 years of age. By using the App, yo
 
 ### 4.2 Camera Permissions
 
-The App asks for camera access to scan bingo cards, and you can enter cards by hand instead. If you allow it, the App uses your device camera solely for this purpose. The App first reads your card on your device. If that fails or isn't available, your card photo may be sent to Google Cloud Vision to read the numbers. We don't run servers for the App and don't receive your photos. See our [Privacy Policy](https://xwteoh.github.io/bingo-scanner-legal/privacy-policy) for details.
+The App asks for camera access to scan bingo cards, and you can enter cards by hand instead. If you allow it, the App uses your device camera solely for this purpose. In version 1.1 and later, the App reads your card on your device and your card photos aren't sent over the internet. In versions before 1.1, if on-device reading fails or isn't available, your card photo may be sent to Google Cloud Vision to read the numbers. We don't run servers for the App and don't receive your photos. See our [Privacy Policy](https://xwteoh.github.io/bingo-scanner-legal/privacy-policy) for details.
 
 ### 4.3 Responsible Use
 
@@ -99,7 +99,8 @@ You retain ownership of any bingo card images you scan or create using the App. 
 The App integrates with third-party services, including:
 
 - **Google ML Kit:** For on-device OCR text recognition
-- **Google Cloud Vision API:** For fallback OCR processing when on-device scanning fails or isn't available
+- **Google Cloud Vision API:** For fallback OCR processing in versions before 1.1 only, when on-device scanning fails or isn't available
+- **Sentry:** For crash and error reports in version 1.1 and later
 - **Google AdMob:** For advertising in the Free Tier
 - **Apple App Store / Google Play Store:** For in-app purchases
 - **Expo:** For app update services
