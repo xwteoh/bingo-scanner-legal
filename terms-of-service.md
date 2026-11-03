@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** November 2, 2026
+**Last Updated:** November 3, 2026
 
 > **Important:** Please read these Terms of Service carefully before using the Bingo Scanner mobile application. By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
@@ -103,8 +103,9 @@ The App integrates with third-party services, including:
 - **Sentry:** For crash and error reports in version 1.1 and later
 - **Google AdMob:** For advertising in the Free Tier
 - **Apple App Store / Google Play Store:** For in-app purchases
+- **PostHog:** For anonymous usage statistics in version 1.1.1 and later
 - **Expo:** For app update services
-- **Tally:** For the support form
+- **Tally:** For the support form and, in version 1.1.1 and later, an optional player survey
 
 Your use of these third-party services is subject to their respective terms of service and privacy policies. We are not responsible for any third-party services' actions or omissions.
 
