@@ -1,6 +1,6 @@
 # Bingo Scanner Privacy Policy
 
-**Last updated:** November 4, 2026
+**Last updated:** November 11, 2026
 
 Bingo Scanner ("the App") is operated by Xin Wei Teoh ("we", "us"). This policy explains what information the App uses, who receives it, and the choices you have.
 
@@ -97,8 +97,8 @@ If we change this policy, we'll update the date at the top. We'll highlight sign
 ## 11. Contact Us
 
 - **Email:** [project.bingo.scanner@gmail.com](mailto:project.bingo.scanner@gmail.com)
-- **In the App:** Settings → Contact Support
-- **Support form:** [https://tally.so/r/44XErk](https://tally.so/r/44XErk)
+- **In the App:** Settings → Report a problem
+- **Support form:** [https://tally.so/r/q5DZlY](https://tally.so/r/q5DZlY)
 
 ## Manage or Revoke Ad Consent {#manage-consent}
 

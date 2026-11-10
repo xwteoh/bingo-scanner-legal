@@ -1,12 +1,12 @@
 # Bingo Scanner – Support
 
-**Last Updated:** 1 Nov 2026
+**Last Updated:** 11 Nov 2026
 
 If you need help with Bingo Scanner, please use one of the options below:
 
 1. **Feedback & Bug Reports**  
-   Tap **Settings → Contact Support** in the app, or fill out our form:  
-   [https://tally.so/r/44XErk](https://tally.so/r/44XErk)
+   Tap **Settings → Report a problem** in the app, or fill out our form:  
+   [https://tally.so/r/q5DZlY](https://tally.so/r/q5DZlY)
 
    Please include:
    - Your device model and iOS or Android version

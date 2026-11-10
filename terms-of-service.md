@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** November 3, 2026
+**Last Updated:** November 11, 2026
 
 > **Important:** Please read these Terms of Service carefully before using the Bingo Scanner mobile application. By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
@@ -194,7 +194,7 @@ These Terms shall be governed by and construed in accordance with the laws of Si
 
 Any disputes arising from these Terms or your use of the App shall be resolved through:
 
-1. **Informal Negotiation:** Contact us via the "Contact Support" button in the app's Settings screen to resolve the issue informally. We will make good-faith efforts to resolve disputes within 30 days.
+1. **Informal Negotiation:** Contact us via the "Report a problem" button in the app's Settings screen to resolve the issue informally. We will make good-faith efforts to resolve disputes within 30 days.
 2. **Binding Arbitration:** If informal resolution fails, disputes shall be resolved through binding arbitration in accordance with local arbitration rules in your jurisdiction.
 3. **Class Action Waiver:** You agree to resolve disputes on an individual basis and waive any right to participate in class actions.
 
@@ -230,7 +230,7 @@ If you have any questions about these Terms or need support, please contact us:
 
 **Email:** [project.bingo.scanner@gmail.com](mailto:project.bingo.scanner@gmail.com)
 
-**Support:** Use the "Contact Support" button in the app's Settings screen, or our [support form](https://tally.so/r/44XErk)
+**Support:** Use the "Report a problem" button in the app's Settings screen, or our [support form](https://tally.so/r/q5DZlY)
 
 **Related Documents:**
 
